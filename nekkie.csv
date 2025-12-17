@@ -1,178 +1,226 @@
-Tickers,,Sub Sector,,,
-1332.T,,Fishery,,,
-1333.T,,Fishery,,,
-2269.T,,Foods,,,
-2501.T,,Foods,,,
-2502.T,,Foods,,,https://indexes.nikkei.co.jp/en/nkave/index/component
-2503.T,,Foods,,,
-2531.T,,Foods,,,
-2801.T,,Foods,,,
-2802.T,,Foods,,,
-2811.T,,Foods,,,
-2875.T,,Foods,,,
-2914.T,,Foods,,,
-2267.T,,Foods,,,
-2897.T,,Foods,,,
-1801.T,,Construction,,,
-1802.T,,Construction,,,
-1803.T,,Construction,,,
-1808.T,,Construction,,,
-1812.T,,Construction,,,
-1925.T,,Construction,,,
-1928.T,,Construction,,,
-1963.T,,Construction,,,
-3401.T,,Textiles & Apparel,,,
-3402.T,,Textiles & Apparel,,,
-3405.T,,Textiles & Apparel,,,
-3101.T,,Textiles & Apparel,,,
-3103.T,,Textiles & Apparel,,,
-3105.T,,Textiles & Apparel,,,
-3863.T,,Pulp & Paper,,,
-3864.T,,Pulp & Paper,,,
-3865.T,,Pulp & Paper,,,
-4004.T,,Chemicals,,,
-4005.T,,Chemicals,,,
-4021.T,,Chemicals,,,
-4042.T,,Chemicals,,,
-4043.T,,Chemicals,,,
-4061.T,,Chemicals,,,
-4063.T,,Chemicals,,,
-4114.T,,Chemicals,,,
-4202.T,,Chemicals,,,
-4272.T,,Chemicals,,,
-4452.T,,Chemicals,,,
-4631.T,,Chemicals,,,
-4901.T,,Chemicals,,,
-4911.T,,Chemicals,,,
-4502.T,,Pharmaceuticals,,,
-4503.T,,Pharmaceuticals,,,
-4506.T,,Pharmaceuticals,,,
-4507.T,,Pharmaceuticals,,,
-4516.T,,Pharmaceuticals,,,
-4523.T,,Pharmaceuticals,,,
-4568.T,,Pharmaceuticals,,,
-4578.T,,Pharmaceuticals,,,
-5002.T,,Petroleum,,,
-5020.T,,Petroleum,,,
-5101.T,,Rubber,,,
-5108.T,,Rubber,,,
-5201.T,,Glass & Ceramics,,,
-5214.T,,Glass & Ceramics,,,
-5232.T,,Glass & Ceramics,,,
-5233.T,,Glass & Ceramics,,,
-5301.T,,Glass & Ceramics,,,
-5332.T,,Glass & Ceramics,,,
-5333.T,,Glass & Ceramics,,,
-5401.T,,Steel,,,
-5406.T,,Steel,,,
-5411.T,,Steel,,,
-5541.T,,Nonferrous Metals,,,
-5631.T,,Nonferrous Metals,,,
-5703.T,,Nonferrous Metals,,,
-5706.T,,Nonferrous Metals,,,
-5713.T,,Nonferrous Metals,,,
-5714.T,,Nonferrous Metals,,,
-5715.T,,Nonferrous Metals,,,
-5801.T,,Nonferrous Metals,,,
-5802.T,,Nonferrous Metals,,,
-6301.T,,Machinery,,,
-6302.T,,Machinery,,,
-6326.T,,Machinery,,,
-6361.T,,Machinery,,,
-6367.T,,Machinery,,,
-6472.T,,Machinery,,,
-6473.T,,Machinery,,,
-6479.T,,Machinery,,,
-6501.T,,Electric Machinery,,,
-6503.T,,Electric Machinery,,,
-6504.T,,Electric Machinery,,,
-6506.T,,Electric Machinery,,,
-6508.T,,Electric Machinery,,,
-6645.T,,Electric Machinery,,,
-6701.T,,Electric Machinery,,,
-6702.T,,Electric Machinery,,,
-6703.T,,Electric Machinery,,,
-6752.T,,Electric Machinery,,,
-6758.T,,Electric Machinery,,,
-6762.T,,Electric Machinery,,,
-6770.T,,Electric Machinery,,,
-6841.T,,Electric Machinery,,,
-6952.T,,Electric Machinery,,,
-6954.T,,Electric Machinery,,,
-6971.T,,Electric Machinery,,,
-6981.T,,Electric Machinery,,,
-6988.T,,Electric Machinery,,,
-7003.T,,Electric Machinery,,,
-7011.T,,Electric Machinery,,,
-7203.T,,Automobiles & Auto parts,,,
-7205.T,,Automobiles & Auto parts,,,
-7211.T,,Automobiles & Auto parts,,,
-7261.T,,Automobiles & Auto parts,,,
-7267.T,,Automobiles & Auto parts,,,
-7269.T,,Automobiles & Auto parts,,,
-7270.T,,Automobiles & Auto parts,,,
-7272.T,,Automobiles & Auto parts,,,
-7735.T,,Precision Instruments,,,
-7751.T,,Precision Instruments,,,
-7752.T,,Precision Instruments,,,
-7762.T,,Precision Instruments,,,
-7832.T,,Other Manufacturing,,,
-7911.T,,Other Manufacturing,,,
-7912.T,,Other Manufacturing,,,
-7951.T,,Other Manufacturing,,,
-8001.T,,Trading Companies,,,
-8002.T,,Trading Companies,,,
-8031.T,,Trading Companies,,,
-8053.T,,Trading Companies,,,
-8058.T,,Trading Companies,,,
-2768.T,,Retail,,,
-3086.T,,Retail,,,
-3382.T,,Retail,,,
-7453.T,,Retail,,,
-8233.T,,Retail,,,
-8267.T,,Retail,,,
-9983.T,,Retail,,,
-9984.T,,Retail,,,
-8306.T,,Banking,,,
-8308.T,,Banking,,,
-8309.T,,Banking,,,
-8316.T,,Banking,,,
-8411.T,,Banking,,,
-8601.T,,Securities,,,
-8604.T,,Securities,,,
-8725.T,,Securities,,,
-8750.T,,Insurance,,,
-8766.T,,Insurance,,,
-8795.T,,Insurance,,,
-8591.T,,Other Financial Services,,,
-8801.T,,Real Estate,,,
-8802.T,,Real Estate,,,
-8804.T,,Real Estate,,,
-8830.T,,Real Estate,,,
-9001.T,,Railway & Bus,,,
-9005.T,,Railway & Bus,,,
-9007.T,,Railway & Bus,,,
-9009.T,,Railway & Bus,,,
-9020.T,,Railway & Bus,,,
-9021.T,,Railway & Bus,,,
-9022.T,,Railway & Bus,,,
-9042.T,,Railway & Bus,,,
-9062.T,,Land Transport,,,
-9064.T,,Land Transport,,,
-9101.T,,Marine Transport,,,
-9104.T,,Marine Transport,,,
-9107.T,,Marine Transport,,,
-9201.T,,Air Transport,,,
-9301.T,,Warehousing,,,
-9432.T,,Communications,,,
-9433.T,,Communications,,,
-9434.T,,Communications,,,
-9501.T,,Electric Power,,,
-9502.T,,Electric Power,,,
-9503.T,,Electric Power,,,
-9531.T,,Gas,,,
-9532.T,,Gas,,,
-9602.T,,Services,,,
-9613.T,,Services,,,
-9735.T,,Services,,,
-9766.T,,Services,,,
+ticker,company_name,nikkei_sector,nikkei_subsector
+4151.T,"KYOWA KIRIN CO., LTD.",Technology,Pharmaceuticals
+4502.T,"TAKEDA PHARMACEUTICAL CO., LTD.",Technology,Pharmaceuticals
+4503.T,ASTELLAS PHARMA INC.,Technology,Pharmaceuticals
+4506.T,"SUMITOMO PHARMA CO., LTD.",Technology,Pharmaceuticals
+4507.T,"SHIONOGI & CO., LTD.",Technology,Pharmaceuticals
+4519.T,"CHUGAI PHARMACEUTICAL CO., LTD.",Technology,Pharmaceuticals
+4523.T,"EISAI CO., LTD.",Technology,Pharmaceuticals
+4568.T,"DAIICHI SANKYO CO., LTD.",Technology,Pharmaceuticals
+4578.T,"OTSUKA HOLDINGS CO., LTD.",Technology,Pharmaceuticals
+4062.T,"IBIDEN CO., LTD.",Technology,Electric Machinery
+6479.T,MINEBEA MITSUMI INC.,Technology,Electric Machinery
+6501.T,"HITACHI, LTD.",Technology,Electric Machinery
+6503.T,MITSUBISHI ELECTRIC CORP.,Technology,Electric Machinery
+6504.T,"FUJI ELECTRIC CO., LTD.",Technology,Electric Machinery
+6506.T,YASKAWA ELECTRIC CORP.,Technology,Electric Machinery
+6526.T,SOCIONEXT INC.,Technology,Electric Machinery
+6645.T,OMRON CORP.,Technology,Electric Machinery
+6674.T,GS YUASA CORP.,Technology,Electric Machinery
+6701.T,NEC CORP.,Technology,Electric Machinery
+6702.T,FUJITSU LTD.,Technology,Electric Machinery
+6723.T,RENESAS ELECTRONICS CORP.,Technology,Electric Machinery
+6724.T,SEIKO EPSON CORP.,Technology,Electric Machinery
+6752.T,PANASONIC HOLDINGS CORP.,Technology,Electric Machinery
+6753.T,SHARP CORP.,Technology,Electric Machinery
+6758.T,SONY GROUP CORP.,Technology,Electric Machinery
+6762.T,TDK CORP.,Technology,Electric Machinery
+6770.T,"ALPS ALPINE CO., LTD.",Technology,Electric Machinery
+6841.T,YOKOGAWA ELECTRIC CORP.,Technology,Electric Machinery
+6857.T,ADVANTEST CORP.,Technology,Electric Machinery
+6861.T,KEYENCE CORP.,Technology,Electric Machinery
+6902.T,DENSO CORP.,Technology,Electric Machinery
+6920.T,LASERTEC CORP.,Technology,Electric Machinery
+6952.T,"CASIO COMPUTER CO., LTD.",Technology,Electric Machinery
+6954.T,FANUC CORP.,Technology,Electric Machinery
+6963.T,"ROHM CO., LTD.",Technology,Electric Machinery
+6971.T,KYOCERA CORP.,Technology,Electric Machinery
+6976.T,"TAIYO YUDEN CO., LTD.",Technology,Electric Machinery
+6981.T,"MURATA MANUFACTURING CO., LTD.",Technology,Electric Machinery
+7735.T,"SCREEN HOLDINGS CO., LTD.",Technology,Electric Machinery
+7751.T,CANON INC.,Technology,Electric Machinery
+7752.T,"RICOH CO., LTD.",Technology,Electric Machinery
+8035.T,TOKYO ELECTRON LTD.,Technology,Electric Machinery
+7201.T,"NISSAN MOTOR CO., LTD.",Technology,Automobiles & Auto parts
+7202.T,ISUZU MOTORS LTD.,Technology,Automobiles & Auto parts
+7203.T,TOYOTA MOTOR CORP.,Technology,Automobiles & Auto parts
+7205.T,"HINO MOTORS, LTD.",Technology,Automobiles & Auto parts
+7211.T,MITSUBISHI MOTORS CORP.,Technology,Automobiles & Auto parts
+7261.T,MAZDA MOTOR CORP.,Technology,Automobiles & Auto parts
+7267.T,"HONDA MOTOR CO., LTD.",Technology,Automobiles & Auto parts
+7269.T,SUZUKI MOTOR CORP.,Technology,Automobiles & Auto parts
+7270.T,SUBARU CORP.,Technology,Automobiles & Auto parts
+7272.T,"YAMAHA MOTOR CO., LTD.",Technology,Automobiles & Auto parts
+4543.T,TERUMO CORP.,Technology,Precision Instruments
+4902.T,"KONICA MINOLTA, INC.",Technology,Precision Instruments
+6146.T,DISCO CORP.,Technology,Precision Instruments
+7731.T,NIKON CORP.,Technology,Precision Instruments
+7733.T,OLYMPUS CORP.,Technology,Precision Instruments
+7741.T,HOYA CORP.,Technology,Precision Instruments
+9432.T,"NTT, INC.",Technology,Communications
+9433.T,KDDI CORP.,Technology,Communications
+9434.T,SOFTBANK CORP.,Technology,Communications
+9984.T,SOFTBANK GROUP CORP.,Technology,Communications
+5831.T,"SHIZUOKA FINANCIAL GROUP, INC.",Financials,Banking
+7186.T,"YOKOHAMA FINANCIAL GROUP, INC.",Financials,Banking
+8304.T,"AOZORA BANK, LTD.",Financials,Banking
+8306.T,"MITSUBISHI UFJ FINANCIAL GROUP, INC.",Financials,Banking
+8308.T,"RESONA HOLDINGS, INC.",Financials,Banking
+8309.T,"SUMITOMO MITSUI TRUST GROUP, INC.",Financials,Banking
+8316.T,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",Financials,Banking
+8331.T,"THE CHIBA BANK, LTD.",Financials,Banking
+8354.T,"FUKUOKA FINANCIAL GROUP, INC.",Financials,Banking
+8411.T,"MIZUHO FINANCIAL GROUP, INC.",Financials,Banking
+8253.T,"CREDIT SAISON CO., LTD.",Financials,Other Financial Services
+8591.T,ORIX CORP.,Financials,Other Financial Services
+8697.T,"JAPAN EXCHANGE GROUP, INC.",Financials,Other Financial Services
+8601.T,DAIWA SECURITIES GROUP INC.,Financials,Securities
+8604.T,"NOMURA HOLDINGS, INC.",Financials,Securities
+8630.T,"SOMPO HOLDINGS, INC.",Financials,Insurance
+8725.T,"MS&AD INSURANCE GROUP HOLDINGS, INC.",Financials,Insurance
+8750.T,"DAI-ICHI LIFE HOLDINGS, INC.",Financials,Insurance
+8766.T,"TOKIO MARINE HOLDINGS, INC.",Financials,Insurance
+8795.T,"T&D HOLDINGS, INC.",Financials,Insurance
+1332.T,NISSUI CORP.,Consumer Goods,Fishery
+2002.T,NISSHIN SEIFUN GROUP INC.,Consumer Goods,Foods
+2269.T,"MEIJI HOLDINGS CO., LTD.",Consumer Goods,Foods
+2282.T,NH FOODS LTD.,Consumer Goods,Foods
+2501.T,SAPPORO HOLDINGS LTD.,Consumer Goods,Foods
+2502.T,"ASAHI GROUP HOLDINGS, LTD.",Consumer Goods,Foods
+2503.T,"KIRIN HOLDINGS CO., LTD.",Consumer Goods,Foods
+2801.T,KIKKOMAN CORP.,Consumer Goods,Foods
+2802.T,"AJINOMOTO CO., INC.",Consumer Goods,Foods
+2871.T,NICHIREI CORP.,Consumer Goods,Foods
+2914.T,JAPAN TOBACCO INC.,Consumer Goods,Foods
+3086.T,"J.FRONT RETAILING CO., LTD.",Consumer Goods,Retail
+3092.T,"ZOZO, INC.",Consumer Goods,Retail
+3099.T,ISETAN MITSUKOSHI HOLDINGS LTD.,Consumer Goods,Retail
+3382.T,"SEVEN & I HOLDINGS CO., LTD.",Consumer Goods,Retail
+7453.T,"RYOHIN KEIKAKU CO., LTD.",Consumer Goods,Retail
+8233.T,"TAKASHIMAYA CO., LTD.",Consumer Goods,Retail
+8252.T,"MARUI GROUP CO., LTD.",Consumer Goods,Retail
+8267.T,"AEON CO., LTD.",Consumer Goods,Retail
+9843.T,"NITORI HOLDINGS CO., LTD.",Consumer Goods,Retail
+9983.T,"FAST RETAILING CO., LTD.",Consumer Goods,Retail
+2413.T,"M3, INC.",Consumer Goods,Services
+2432.T,"DENA CO., LTD.",Consumer Goods,Services
+3659.T,"NEXON CO., LTD.",Consumer Goods,Services
+3697.T,SHIFT INC.,Consumer Goods,Services
+4307.T,"NOMURA RESEARCH INSTITUTE, LTD.",Consumer Goods,Services
+4324.T,DENTSU GROUP INC.,Consumer Goods,Services
+4385.T,"MERCARI, INC.",Consumer Goods,Services
+4661.T,"ORIENTAL LAND CO., LTD.",Consumer Goods,Services
+4689.T,LY CORP.,Consumer Goods,Services
+4704.T,TREND MICRO INC.,Consumer Goods,Services
+4751.T,"CYBERAGENT, INC.",Consumer Goods,Services
+4755.T,"RAKUTEN GROUP, INC.",Consumer Goods,Services
+6098.T,"RECRUIT HOLDINGS CO., LTD.",Consumer Goods,Services
+6178.T,"JAPAN POST HOLDINGS CO., LTD.",Consumer Goods,Services
+6532.T,"BAYCURRENT, INC.",Consumer Goods,Services
+7974.T,"NINTENDO CO., LTD.",Consumer Goods,Services
+9602.T,"TOHO CO., LTD",Consumer Goods,Services
+9735.T,"SECOM CO., LTD.",Consumer Goods,Services
+9766.T,KONAMI GROUP CORP.,Consumer Goods,Services
+1605.T,INPEX CORP.,Materials,Mining
+3401.T,TEIJIN LTD.,Materials,Textiles & Apparel
+3402.T,"TORAY INDUSTRIES, INC.",Materials,Textiles & Apparel
+3861.T,OJI HOLDINGS CORP.,Materials,Pulp & Paper
+3405.T,"KURARAY CO., LTD.",Materials,Chemicals
+3407.T,ASAHI KASEI CORP.,Materials,Chemicals
+4004.T,RESONAC HOLDINGS CORP.,Materials,Chemicals
+4005.T,"SUMITOMO CHEMICAL CO., LTD.",Materials,Chemicals
+4021.T,NISSAN CHEMICAL CORP.,Materials,Chemicals
+4042.T,TOSOH CORP.,Materials,Chemicals
+4043.T,TOKUYAMA CORP.,Materials,Chemicals
+4061.T,"DENKA CO., LTD.",Materials,Chemicals
+4063.T,"SHIN-ETSU CHEMICAL CO., LTD.",Materials,Chemicals
+4183.T,"MITSUI CHEMICALS, INC.",Materials,Chemicals
+4188.T,MITSUBISHI CHEMICAL GROUP CORP.,Materials,Chemicals
+4208.T,UBE CORP.,Materials,Chemicals
+4452.T,KAO CORP.,Materials,Chemicals
+4901.T,FUJIFILM HOLDINGS CORP.,Materials,Chemicals
+4911.T,"SHISEIDO CO., LTD.",Materials,Chemicals
+6988.T,NITTO DENKO CORP.,Materials,Chemicals
+5019.T,"IDEMITSU KOSAN CO., LTD.",Materials,Petroleum
+5020.T,"ENEOS HOLDINGS, INC.",Materials,Petroleum
+5101.T,"THE YOKOHAMA RUBBER CO., LTD.",Materials,Rubber
+5108.T,BRIDGESTONE CORP.,Materials,Rubber
+5201.T,AGC INC.,Materials,Glass & Ceramics
+5214.T,"NIPPON ELECTRIC GLASS CO., LTD.",Materials,Glass & Ceramics
+5233.T,TAIHEIYO CEMENT CORP.,Materials,Glass & Ceramics
+5301.T,"TOKAI CARBON CO., LTD.",Materials,Glass & Ceramics
+5332.T,TOTO LTD.,Materials,Glass & Ceramics
+5333.T,"NGK INSULATORS, LTD.",Materials,Glass & Ceramics
+5401.T,NIPPON STEEL CORP.,Materials,Steel
+5406.T,"KOBE STEEL, LTD.",Materials,Steel
+5411.T,"JFE HOLDINGS, INC.",Materials,Steel
+3436.T,SUMCO CORP.,Materials,Nonferrous Metals
+5706.T,"MITSUI KINZOKU CO., LTD.",Materials,Nonferrous Metals
+5711.T,MITSUBISHI MATERIALS CORP.,Materials,Nonferrous Metals
+5713.T,"SUMITOMO METAL MINING CO., LTD.",Materials,Nonferrous Metals
+5714.T,"DOWA HOLDINGS CO., LTD.",Materials,Nonferrous Metals
+5801.T,"FURUKAWA ELECTRIC CO., LTD.",Materials,Nonferrous Metals
+5802.T,"SUMITOMO ELECTRIC IND., LTD.",Materials,Nonferrous Metals
+5803.T,FUJIKURA LTD.,Materials,Nonferrous Metals
+2768.T,SOJITZ CORP.,Materials,Trading Companies
+8001.T,ITOCHU CORP.,Materials,Trading Companies
+8002.T,MARUBENI CORP.,Materials,Trading Companies
+8015.T,TOYOTA TSUSHO CORP.,Materials,Trading Companies
+8031.T,"MITSUI & CO., LTD.",Materials,Trading Companies
+8053.T,SUMITOMO CORP.,Materials,Trading Companies
+8058.T,MITSUBISHI CORP.,Materials,Trading Companies
+1721.T,COMSYS HOLDINGS CORP.,Capital Goods/Others,Construction
+1801.T,TAISEI CORP.,Capital Goods/Others,Construction
+1802.T,OBAYASHI CORP.,Capital Goods/Others,Construction
+1803.T,SHIMIZU CORP.,Capital Goods/Others,Construction
+1808.T,HASEKO CORP.,Capital Goods/Others,Construction
+1812.T,KAJIMA CORP.,Capital Goods/Others,Construction
+1925.T,"DAIWA HOUSE IND. CO., LTD.",Capital Goods/Others,Construction
+1928.T,"SEKISUI HOUSE, LTD.",Capital Goods/Others,Construction
+1963.T,JGC HOLDINGS CORP.,Capital Goods/Others,Construction
+5631.T,"THE JAPAN STEEL WORKS, LTD.",Capital Goods/Others,Machinery
+6103.T,OKUMA CORP.,Capital Goods/Others,Machinery
+6113.T,"AMADA CO., LTD.",Capital Goods/Others,Machinery
+6273.T,SMC CORP.,Capital Goods/Others,Machinery
+6301.T,KOMATSU LTD.,Capital Goods/Others,Machinery
+6302.T,"SUMITOMO HEAVY IND., LTD.",Capital Goods/Others,Machinery
+6305.T,"HITACHI CONST. MACH. CO., LTD.",Capital Goods/Others,Machinery
+6326.T,KUBOTA CORP.,Capital Goods/Others,Machinery
+6361.T,EBARA CORP.,Capital Goods/Others,Machinery
+6367.T,"DAIKIN INDUSTRIES, LTD.",Capital Goods/Others,Machinery
+6471.T,NSK LTD.,Capital Goods/Others,Machinery
+6472.T,NTN CORP.,Capital Goods/Others,Machinery
+6473.T,JTEKT CORP.,Capital Goods/Others,Machinery
+7004.T,KANADEVIA CORP.,Capital Goods/Others,Machinery
+7011.T,"MITSUBISHI HEAVY IND., LTD.",Capital Goods/Others,Machinery
+7013.T,IHI CORP.,Capital Goods/Others,Machinery
+7012.T,"KAWASAKI HEAVY IND., LTD.",Capital Goods/Others,Shipbuilding
+7832.T,BANDAI NAMCO HOLDINGS INC.,Capital Goods/Others,Other Manufacturing
+7911.T,TOPPAN HOLDINGS INC.,Capital Goods/Others,Other Manufacturing
+7912.T,"DAI NIPPON PRINTING CO., LTD.",Capital Goods/Others,Other Manufacturing
+7951.T,YAMAHA CORP.,Capital Goods/Others,Other Manufacturing
+3289.T,TOKYU FUDOSAN HOLDINGS CORP.,Capital Goods/Others,Real Estate
+8801.T,"MITSUI FUDOSAN CO., LTD.",Capital Goods/Others,Real Estate
+8802.T,"MITSUBISHI ESTATE CO., LTD.",Capital Goods/Others,Real Estate
+8804.T,"TOKYO TATEMONO CO., LTD.",Capital Goods/Others,Real Estate
+8830.T,"SUMITOMO REALTY & DEVELOPMENT CO., LTD.",Capital Goods/Others,Real Estate
+9001.T,"TOBU RAILWAY CO., LTD.",Transportation and Utilities,Railway & Bus
+9005.T,TOKYU CORP.,Transportation and Utilities,Railway & Bus
+9007.T,"ODAKYU ELECTRIC RAILWAY CO., LTD.",Transportation and Utilities,Railway & Bus
+9008.T,KEIO CORP.,Transportation and Utilities,Railway & Bus
+9009.T,"KEISEI ELECTRIC RAILWAY CO., LTD.",Transportation and Utilities,Railway & Bus
+9020.T,EAST JAPAN RAILWAY CO.,Transportation and Utilities,Railway & Bus
+9021.T,WEST JAPAN RAILWAY CO.,Transportation and Utilities,Railway & Bus
+9022.T,"CENTRAL JAPAN RAILWAY CO., LTD.",Transportation and Utilities,Railway & Bus
+9064.T,"YAMATO HOLDINGS CO., LTD.",Transportation and Utilities,Land Transport
+9147.T,"NIPPON EXPRESS HOLDINGS, INC.",Transportation and Utilities,Land Transport
+9101.T,NIPPON YUSEN K.K.,Transportation and Utilities,Marine Transport
+9104.T,"MITSUI O.S.K.LINES, LTD.",Transportation and Utilities,Marine Transport
+9107.T,"KAWASAKI KISEN KAISHA, LTD.",Transportation and Utilities,Marine Transport
+9201.T,"JAPAN AIRLINES CO., LTD.",Transportation and Utilities,Air Transport
+9202.T,ANA HOLDINGS INC.,Transportation and Utilities,Air Transport
+9501.T,"TOKYO ELECTRIC POWER COMPANY HOLDINGS, I",Transportation and Utilities,Electric Power
+9502.T,"CHUBU ELECTRIC POWER CO., INC.",Transportation and Utilities,Electric Power
+9503.T,"THE KANSAI ELECTRIC POWER CO., INC.",Transportation and Utilities,Electric Power
+9531.T,"TOKYO GAS CO., LTD.",Transportation and Utilities,Gas
+9532.T,"OSAKA GAS CO., LTD.",Transportation and Utilities,Gas
